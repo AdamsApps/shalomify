@@ -1,0 +1,8 @@
+{
+
+"name": "shalomify",
+"description": "Shalomify your life",
+"require" : {
+    "php": ">=5.5"
+}
+}
