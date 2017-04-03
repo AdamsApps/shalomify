@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>Daily Proclamation</h1>
-<p>My body is a  for the Holy Spirit</p>
+<p>My body is a temple for the Holy Spirit</p>
 <p>Redeemed, cleansed and sanctified by the blood of Jesus</p>
 <p>My members, the parts of my body, are instruments of righteousness, yielded to God for His service and for His glory</p>
 <p>The devil has no place in me, no power over me, no unsettled claims against me</p>
